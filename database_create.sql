@@ -1,3 +1,5 @@
+DATABASE cif
+
 CREATE TABLE `user` (
   `ID` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
   `Owner` bigint(20) unsigned NOT NULL,
